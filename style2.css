@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+h1 + p {
+    color: chartreuse;
+}
+h2 {
+    color: pink;
+}
+h2 + p {
+    color: red;
+}
+ol {
+    color: yellow;
+}
